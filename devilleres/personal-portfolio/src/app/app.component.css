@@ -17,16 +17,22 @@
   }
 
   .toolbar {
-    position: absolute;
+    position: fixed;
+    z-index: 1;
     top: 0;
     left: 0;
     right: 0;
     height: 60px;
     display: flex;
     align-items: center;
-    background-color: #edf1f5;
+    background-color: #ec407a;
     color: white;
     font-weight: 600;
+  }
+  .header-nav{
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
   }
 
   .toolbar img {
