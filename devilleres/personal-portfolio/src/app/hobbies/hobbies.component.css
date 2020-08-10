@@ -1,0 +1,47 @@
+.container{
+    margin-top:10%;
+    text-align: center;
+}
+.first, .second, .third{
+    margin-top: 5%;
+}
+.subtitle{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+}
+.hobbies{
+    width:400px;
+    
+}
+
+.piece1, .piece2, .piece3{
+    margin-top: 5%;  
+    width: 28rem;
+    
+}
+.piece1, .piece3{
+    float: left;
+    margin-left: 10%;
+}
+.piece2{
+    float: right;
+    margin-right: 10%;
+}
+.title{
+    font-family: Impact, Charcoal, sans-serif;
+}
+.sub{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.des1, .des3{
+    width: 20%;
+    float: right;
+    margin-top: 10%;
+    margin-right: 20%;   
+}
+.des2{
+    width: 20%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 20%; 
+}
