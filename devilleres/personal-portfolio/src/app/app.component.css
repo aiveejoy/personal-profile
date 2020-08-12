@@ -15,12 +15,17 @@
   .between{
     flex: .05;
   }
-  .left-foot{
-    padding: 2%;
-  }
-  .right-foot{
-
-  }
+  
+  .footer {
+    margin-top: 10%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f82e71;
+    color: white;
+    text-align: center;
+ }
 
   .toolbar {
     position: fixed;
@@ -31,7 +36,7 @@
     height: 60px;
     display: flex;
     align-items: center;
-    background-color: #ec407a;
+    background-color: #f82e71;
     color: white;
     font-weight: 600;
   }

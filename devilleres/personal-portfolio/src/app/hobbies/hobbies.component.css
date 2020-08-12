@@ -36,12 +36,15 @@
 .des1, .des3{
     width: 20%;
     float: right;
-    margin-top: 10%;
+    margin-top: 17%;
     margin-right: 20%;   
 }
 .des2{
     width: 20%;
     float: left;
-    margin-top: 10%;
+    margin-top: 17%;
     margin-left: 20%; 
+}
+.entries{
+    margin-bottom: 5%;
 }
